@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flume-ng-elasticsearch-sink-1.9.0">
+    <CLASSES>
+      <root url="jar://F:/flume/apache-flume-1.9.0-bin/lib/flume-ng-elasticsearch-sink-1.9.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
